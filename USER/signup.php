@@ -95,7 +95,7 @@ if(empty($error)){
      $mail->SMTPAuth = true;
 
      //SMTP username
-     $mail->Username = 'davesantan219@gmail.com';
+     $mail->Username = '\\@gmail.com';
 
      //SMTP password
      $mail->Password = 'kpvustelionxieeg';
